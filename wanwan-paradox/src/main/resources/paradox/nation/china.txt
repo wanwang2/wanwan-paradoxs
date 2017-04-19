@@ -1,0 +1,2 @@
+pepole.total:	300000;
+tex.total:	60;
